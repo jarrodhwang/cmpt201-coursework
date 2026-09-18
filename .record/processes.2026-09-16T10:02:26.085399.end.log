@@ -1,0 +1,8 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+cmpt201        1  0.0  0.0  17280  8784 pts/0    Ss   09:42   0:03 zsh --login
+cmpt201     1771  0.0  0.0  18264 10512 pts/1    Ss   09:54   0:05 zsh --login
+cmpt201     5312  0.0  0.0   2904  2164 pts/0    S+   10:02   0:00 /home/cmpt201/.local/bin/record
+cmpt201     5313  0.0  0.0 119880 24232 pts/0    S+   10:02   0:01 /home/cmpt201/.local/bin/record
+cmpt201     7197  0.0  0.0  17216  8992 pts/1    S+   11:10   0:00 /usr/bin/nvim lab1.c
+cmpt201     7200  0.0  0.0  26216 19416 ?        Ss   11:10   0:00 /usr/bin/nvim --embed lab1.c
+cmpt201     7334  0.0  0.0  13488  4572 pts/0    R+   14:05   0:00 ps aux
